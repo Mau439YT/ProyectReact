@@ -2,8 +2,9 @@ import Textimg from "../textimg";
 const Inicio= (props) => {
     return(
         <div>
+			<br/><br/>
         <p class="tituloinicio">BeardBikes</p>
-		<br/><br/><br/>
+		<br/><br/>
 		<Textimg
 		idtext={"ciclo1"}
 		claseimg={"cicloimg"}

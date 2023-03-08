@@ -44,13 +44,11 @@ body{
 
 .titulo{
     text-align: center;
-    margin-top: 5%;
     color: #fff;
     font-family: 'Roboto Mono', monospace;
 }
 
 .tituloinicio{
-  margin-left: 37%;
   font-family: 'Courgette', cursive;
   color: #fff;
   font-size: 90px;
